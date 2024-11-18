@@ -23,6 +23,8 @@ public class Main {
 
        Scanner scanner = new Scanner(System.in);
 
+
+
         System.out.println("inserisci la prima parola");
        String parola1 = scanner.nextLine();
 
