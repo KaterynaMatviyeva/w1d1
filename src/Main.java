@@ -35,5 +35,7 @@ public class Main {
         System.out.println(parola1 + " " + parola2 +" " + parola3);
         String fraseInversa = parola1 + " " + parola2 +" " + parola3;
         System.out.println(fraseInversa);
+
+
     }
 }
